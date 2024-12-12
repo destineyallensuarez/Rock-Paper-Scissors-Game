@@ -33,6 +33,6 @@ This simple and interactive Rock Paper Scissors game is built with HTML, CSS, an
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone [<http://127.0.0.1:3000/RPS.html>](https://github.com/destineyallensuarez/Rock-Paper-Scissors-Game/tree/main/RockPaperScissor)
+   https://github.com/destineyallensuarez/Rock-Paper-Scissors-Game/tree/main/RockPaperScissor
    ```
 2. Open `index.html` in your browser to play the game.
